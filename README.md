@@ -1,10 +1,11 @@
 # CSU-LA/NASA DIRECT-STEM data science workshop
 ## Introduction to Python and Predictive Modeling
 
-- Instructor: Preston Hinkle ( **email:** thinkle at uci dot edu)
+- Instructors: 
+    - Casey Graff ( **email:** graffc at uci dot edu)
+    - Preston Putzel ( **email:** pputzel at uci dot edu)
 - TAs:
-	- Victoria Lim (Day 1)
-	- Anna Kwa (Day 2)
+    - TBD
 
 
 # Schedule
@@ -13,23 +14,23 @@
 
 | Time                       | Activity                                                                    |
 | -------------------------- |:----------------------------------------------------------------------------|
-| **9:30-10:00 am**          | Sign-in + coffee                                                            |
-| **10:00-10:30 am**           | Introductions and course overview                                           |
-| **10:30-12:00 pm**          | __Session 1.1__: Coding warm-up                                      |
-| **12:00-1:30 pm**          | Lunch
-| **1:30-3:00 pm**           | __Session 1.2__: Python's scientific computing infrastructure               |
-| **3:00-3:15 pm**           | Break                                                                |
-| **3:15-5:00 pm**           | __Session 1.3__: Exploratory data analysis in Python        |
+| **9:00-9:30 am**          | Sign-in + coffee                                                            |
+| **9:30-10:00 am**           | Introductions and course overview                                           |
+| **10:00-11:30 pm**          | __Session 1.1__: Coding warm-up                                      |
+| **11:30-1:15 pm**          | Lunch
+| **1:15-2:45 pm**           | __Session 1.2__: Python's scientific computing infrastructure               |
+| **2:45-3:00 pm**           | Break                                                                |
+| **3:00-4:45 pm**           | __Session 1.3__: Exploratory data analysis in Python        |
 
 ## Day 2
 
 | Time                       | Activity                                                                    |
 | -------------------------- |:----------------------------------------------------------------------------|
-| **09:30-10:00 am**          | Coffee                                                                      |
-| **10:00-12:00 am**           | __Session 2.1__: Linear regression                             |
-| **12:00-1:30 pm**          | Lunch                                                                       |
-| **1:30-3:00 pm**          | __Session 2.2__: Logistic regression                             |
-| **3:00- pm**           | __Session 2.3__: Intro to version control w/ git and closing remarks                        |
+| **09:00-9:30 am**          | Coffee                                                                      |
+| **9:30-11:30 am**           | __Session 2.1__: Linear regression                             |
+| **11:30-1:15 pm**          | Lunch                                                                       |
+| **1:15-2:45 pm**          | __Session 2.2__: Logistic regression                             |
+| **2:45- pm**           | __Session 2.3__: Intro to version control w/ git and closing remarks                        |
 
 
 # Workshop preliminaries
@@ -41,7 +42,7 @@
 - If you *really* think you don't need to install Python, please e-mail me to confirm :)
 
 ## Python download & installation instructions 
-1. Go to the [Anaconda download page](https://www.continuum.io/downloads)
+1. Go to the [Anaconda download page](https://www.anaconda.com/download/)
 2. Click on the link to download **Python 3.6** for your system
 	- Make sure you grab the correct version for your operating system! Ask if you have any questions
 3. Install Anaconda
@@ -55,7 +56,7 @@
 		- Open the shell/terminal
 		- Enter `conda update conda`
 		- Enter `conda install anaconda`
-5. Download the workshop repository from the [github repo](https://github.com/tphinkle/IntroPython_PredictiveModeling)
+5. Download the workshop repository from the [github repo](https://github.com/caseyagraff/IntroPython_PredictiveModeling)
 	- Click the green button on the right 'Clone or download', then click 'Download ZIP'
 6. Using your terminal (Mac/Linux) or the Anaconda Prompt (Windows), `cd` to wherever you saved the repository (`cd` is the command for changing directory; so on my system I type `cd Desktop/data_science/teaching/IntroPython_PredictiveModeling` to get to the directory where I put the workshop folder)
 7. Open Jupyter notebook by typing `jupyter notebook`; this should open a tab in your internet browser.
