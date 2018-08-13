@@ -2,10 +2,11 @@
 ## Introduction to Python and Predictive Modeling
 
 - Instructors: 
-    - Casey Graff ( **email:** graffc at uci dot edu)
-    - Preston Putzel ( **email:** pputzel at uci dot edu)
+    - Casey Graff (**email:** graffc at uci dot edu)
+    - Preston Putzel (**email:** pputzel at uci dot edu)
 - TAs:
-    - TBD
+    - Negin Hayatbini (**email:** nhayatbi at uci dot edu)
+    - Hirak Kashyap (**email:** kashyaph at uci dot edu)
 
 
 # Schedule
