@@ -15,8 +15,7 @@
 
 | Time                       | Activity                                                                    |
 | -------------------------- |:----------------------------------------------------------------------------|
-| **9:00-9:30 am**          | Sign-in + coffee                                                            |
-| **9:30-10:00 am**           | Introductions and course overview                                           |
+| **9:00-10:00 am**           | Introductions and course overview                                           |
 | **10:00-11:30 pm**          | __Session 1.1__: Coding warm-up                                      |
 | **11:30-1:15 pm**          | Lunch
 | **1:15-2:45 pm**           | __Session 1.2__: Python's scientific computing infrastructure               |
@@ -27,8 +26,7 @@
 
 | Time                       | Activity                                                                    |
 | -------------------------- |:----------------------------------------------------------------------------|
-| **09:00-9:30 am**          | Coffee                                                                      |
-| **9:30-11:30 am**          | __Session 2.1__: Linear regression                             |
+| **9:00-11:30 am**          | __Session 2.1__: Linear regression                             |
 | **11:30-1:15 pm**          | Lunch                                                                       |
 | **1:15-2:45 pm**           | __Session 2.2__: Logistic regression                             |
 | **2:45-3:00 pm**           | Break |
