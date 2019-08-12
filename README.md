@@ -26,7 +26,7 @@
 | **11:30-1:00 pm**          | Lunch                                                                       |
 | **1:00-2:45 pm**           | __Session 2.2__: Logistic regression                             |
 | **2:45-3:00 pm**           | Break |
-| **3:00-4:00 pm**           | __Session 2.3__: Intro to version control w/ git and Cloud Computing |
+| **3:00-5:00 pm**           | __Session 2.3__: Intro to version control w/ git and Cloud Computing |
 
 
 # Workshop preliminaries
