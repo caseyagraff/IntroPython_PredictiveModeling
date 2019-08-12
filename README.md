@@ -16,7 +16,7 @@
 | **11:30-1:00 pm**          | Lunch
 | **1:00-2:45 pm**           | __Session 1.2__: Python's scientific computing infrastructure               |
 | **2:45-3:00 pm**           | Break                                                                |
-| **3:00-4:45 pm**           | __Session 1.3__: Exploratory data analysis in Python        |
+| **3:00-4:00 pm**           | __Session 1.3__: Exploratory data analysis in Python        |
 
 ## Day 2
 
