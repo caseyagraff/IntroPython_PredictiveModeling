@@ -13,8 +13,8 @@
 | -------------------------- |:----------------------------------------------------------------------------|
 | **9:00-10:00 am**           | Introductions and course overview                                           |
 | **10:00-11:30 pm**          | __Session 1.1__: Coding warm-up                                      |
-| **11:30-1:15 pm**          | Lunch
-| **1:15-2:45 pm**           | __Session 1.2__: Python's scientific computing infrastructure               |
+| **11:30-1:00 pm**          | Lunch
+| **1:00-2:45 pm**           | __Session 1.2__: Python's scientific computing infrastructure               |
 | **2:45-3:00 pm**           | Break                                                                |
 | **3:00-4:45 pm**           | __Session 1.3__: Exploratory data analysis in Python        |
 
@@ -23,8 +23,8 @@
 | Time                       | Activity                                                                    |
 | -------------------------- |:----------------------------------------------------------------------------|
 | **9:00-11:30 am**          | __Session 2.1__: Linear regression                             |
-| **11:30-1:15 pm**          | Lunch                                                                       |
-| **1:15-2:45 pm**           | __Session 2.2__: Logistic regression                             |
+| **11:30-1:00 pm**          | Lunch                                                                       |
+| **1:00-2:45 pm**           | __Session 2.2__: Logistic regression                             |
 | **2:45-3:00 pm**           | Break |
 | **3:00-4:00 pm**           | __Session 2.3__: Intro to version control w/ git and Cloud Computing |
 
