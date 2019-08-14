@@ -1,4 +1,4 @@
-# CSU-LA/NASA DIRECT-STEM data science workshop
+# CSU-LA/NASA DIRECT-STEM 2019 data science workshop
 ## Introduction to Python and Predictive Modeling
 
 - Instructors: 
